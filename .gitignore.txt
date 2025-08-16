@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# FAISS index (large binary files)
+faiss_index/
+
+# Data files (optional: skip if you don't want to push sample documents)
+data/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

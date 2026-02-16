@@ -1,8 +1,8 @@
 flask
 flask-cors
 openai
-langchain
-langchain-openai
+langchain==0.1.16
+langchain-openai==0.0.8
 chromadb
 faiss-cpu
 python-dotenv

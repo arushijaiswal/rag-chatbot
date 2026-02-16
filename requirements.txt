@@ -2,6 +2,7 @@ flask
 flask-cors
 openai
 langchain
+langchain-openai
 chromadb
 faiss-cpu
 python-dotenv
